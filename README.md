@@ -12,7 +12,7 @@
 - [ JavaScript ]
 
 # Aplicação
-<p>O desafio do Maratona Explorer está disponível no <a href="">link</a></p>
+<p>O desafio do Maratona Explorer está disponível no <a href="https://felipepeduardo.github.io/maratona-explorer-1/">link</a></p>
 
 # Contatos
 <p>Você vai me encontrar em qualquer uma das redes sociais abaixo </br>
